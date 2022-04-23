@@ -1,0 +1,3 @@
+ Ecommerce API
+
+ 1) start up basic express server in app.js
